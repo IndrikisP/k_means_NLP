@@ -1,0 +1,74 @@
+Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the severe acute respiratory syndrome coronavirus (SARS-CoV or SARS-CoV-1), the first identified strain of the SARS coronavirus species, severe acute respiratory syndrome–related coronavirus (SARSr-CoV).[3] The first known cases occurred in November 2002, and the syndrome caused the 2002–2004 SARS outbreak. In the 2010s, Chinese scientists traced the virus through the intermediary of Asian palm civets to cave-dwelling horseshoe bats in Xiyang Yi Ethnic Township, Yunnan.[4]
+
+SARS was a relatively rare disease; at the end of the epidemic in June 2003, the incidence was 8,469 cases with a case fatality rate (CFR) of 11%.[5] No cases of SARS-CoV-1 have been reported worldwide since 2004.[6]
+
+In December 2019, another strain of SARSr-CoV was identified as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).[7] This strain, which is related to SARS-CoV-1, caused coronavirus disease 2019 (COVID-19), a disease that brought about the COVID-19 pandemic.[8]
+
+Signs and symptoms
+SARS produces flu-like symptoms which may include fever, muscle pain, lethargy, cough, sore throat, and other nonspecific symptoms. The only symptom common to all patients appears to be a fever above 38 °C (100 °F). SARS often leads to shortness of breath and pneumonia, which may be direct viral pneumonia or secondary bacterial pneumonia.[9]
+
+The average incubation period for SARS is 4–6 days, although it is rarely as short as 1 day or as long as 14 days.[10]
+
+Transmission
+The primary route of transmission for SARS-CoV is contact of the mucous membranes with respiratory droplets or fomites. While diarrhea is common in people with SARS, the fecal–oral route does not appear to be a common mode of transmission.[10] The basic reproduction number of SARS-CoV, R0, ranges from 2 to 4 depending on different analyses. Control measures introduced in April 2003 reduced the R to 0.4.[10]
+
+Diagnosis
+
+A chest X-ray showing increased opacity in both lungs, indicative of pneumonia, in a patient with SARS
+SARS-CoV may be suspected in a patient who has:[citation needed]
+
+Any of the symptoms, including a fever of 38 °C (100 °F) or higher, and
+Either a history of:
+Contact (sexual or casual) with someone with a diagnosis of SARS within the last 10 days or
+Travel to any of the regions identified by the World Health Organization (WHO) as areas with recent local transmission of SARS.
+Clinical criteria of Sars-CoV diagnosis[11]
+Early illness: equal to or more than 2 of the following: chills, rigors, myalgia, diarrhea, sore throat (self-reported or observed)
+Mild-to-moderate illness: temperature of >38 °C (100 °F) plus indications of lower respiratory tract infection (cough, dyspnea)
+Severe illness: ≥1 of radiographic evidence, presence of ARDS, autopsy findings in late patients.
+For a case to be considered probable, a chest X-ray must be indicative for atypical pneumonia or acute respiratory distress syndrome.[citation needed]
+
+The WHO has added the category of "laboratory confirmed SARS" which means patients who would otherwise be considered "probable" and have tested positive for SARS based on one of the approved tests (ELISA, immunofluorescence or PCR) but whose chest X-ray findings do not show SARS-CoV infection (e.g. ground glass opacities, patchy consolidations unilateral).[11][12]
+
+The appearance of SARS-CoV in chest X-rays is not always uniform but generally appears as an abnormality with patchy infiltrates.[13]
+
+Prevention
+There is a vaccine for SARS, although in March 2020 immunologist Anthony Fauci said the CDC developed one and placed it in the Strategic National Stockpile.[14] That vaccine, is a final product and field-ready as of March 2022.[15] Clinical isolation and vaccination remain the most effective means to prevent the spread of SARS. Other preventive measures include:
+
+Hand-washing with soap and water, or use of alcohol-based hand sanitizer[16]
+Disinfection of surfaces of fomites to remove viruses
+Avoiding contact with bodily fluids
+Washing the personal items of someone with SARS in hot, soapy water (eating utensils, dishes, bedding, etc.)[17]
+Avoiding travel to affected areas
+Wearing masks and gloves[18]
+Keeping people with symptoms home from school
+Simple hygiene measures
+Distancing oneself at least 6 feet if possible to minimize the chances of transmission of the virus
+Many public health interventions were made to try to control the spread of the disease, which is mainly spread through respiratory droplets in the air, either inhaled or deposited on surfaces and subsequently transferred to a body's mucous membranes. These interventions included earlier detection of the disease; isolation of people who are infected; droplet and contact precautions; and the use of personal protective equipment (PPE), including masks and isolation gowns.[5] A 2017 meta-analysis found that for medical professionals wearing N-95 masks could reduce the chances of getting sick up to 80% compared to no mask.[19] A screening process was also put in place at airports to monitor air travel to and from affected countries.[20]
+
+SARS-CoV is most infectious in severely ill patients, which usually occurs during the second week of illness. This delayed infectious period meant that quarantine was highly effective; people who were isolated before day five of their illness rarely transmitted the disease to others.[10]
+
+As of 2017, the CDC was still working to make federal and local rapid-response guidelines and recommendations in the event of a reappearance of the virus.[21]
+
+Treatment
+
+Award to the staff of the Hôpital Français de Hanoï for their dedication during the SARS crisis
+As SARS is a viral disease, antibiotics do not have direct effect but may be used against bacterial secondary infection. Treatment of SARS is mainly supportive with antipyretics, supplemental oxygen and mechanical ventilation as needed. While ribavirin is commonly used to treat SARS, there seems to have little to no effect on SARS-CoV, and no impact on patient's outcomes.[22] There is currently no proven antiviral therapy. Tested substances, include ribavirin, lopinavir, ritonavir, type I interferon, that have thus far shown no conclusive contribution to the disease's course.[23] Administration of corticosteroids, is recommended by the British Thoracic Society/British Infection Society/Health Protection Agency in patients with severe disease and O2 saturation of <90%.[24]
+
+People with SARS-CoV must be isolated, preferably in negative-pressure rooms, with complete barrier nursing precautions taken for any necessary contact with these patients, to limit the chances of medical personnel becoming infected.[11] In certain cases, natural ventilation by opening doors and windows is documented to help decreasing indoor concentration of virus particles.[25]
+
+Some of the more serious damage caused by SARS may be due to the body's own immune system reacting in what is known as cytokine storm.[26]
+
+Vaccine
+See also: Economics of vaccines and COVID-19 vaccine
+Vaccines can help immune system to create enough antibodies and also it can help to decrease a risk of side effects like arm pain, fever, headache etc.[27][28] According to research papers published in 2005 and 2006, the identification and development of novel vaccines and medicines to treat SARS was a priority for governments and public health agencies around the world.[29][30][31] In early 2004, an early clinical trial on volunteers was planned.[32] A major researcher's 2016 request, however, demonstrated that no field-ready SARS vaccine had been completed because likely market-driven priorities had ended funding.[15]
+
+Prognosis
+Several consequent reports from China on some recovered SARS patients showed severe long-time sequelae. The most typical diseases include, among other things, pulmonary fibrosis, osteoporosis, and femoral necrosis, which have led in some cases to the complete loss of working ability or even self-care ability of people who have recovered from SARS. As a result of quarantine procedures, some of the post-SARS patients have been diagnosed with post-traumatic stress disorder (PTSD) and major depressive disorder.[33][34]
+
+Epidemiology
+Main article: 2002–2004 SARS outbreak
+SARS was a relatively rare disease; at the end of the epidemic in June 2003, the incidence was 8,422 cases with a case fatality rate (CFR) of 11%.[5]
+
+The case fatality rate (CFR) ranges from 0% to 50% depending on the age group of the patient.[10] Patients under 24 were least likely to die (less than 1%); those 65 and older were most likely to die (over 55%).[35]
+
+As with MERS and COVID-19, SARS resulted in significantly more deaths of males than females.

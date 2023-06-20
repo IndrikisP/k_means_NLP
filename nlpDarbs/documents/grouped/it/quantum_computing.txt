@@ -1,0 +1,55 @@
+Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers. 
+
+Today, IBM Quantum makes real quantum hardware -- a tool scientists only began to imagine three decades ago -- available to hundreds of thousands of developers. Our engineers deliver ever-more-powerful superconducting quantum processors at regular intervals, alongside crucial advances in software and quantum-classical orchestration. This work drives toward the quantum computing speed and capacity necessary to change the world. 
+
+These machines are very different from the classical computers that have been around for more than half a century. Here's a primer on this transformative technology.
+
+Why do we need quantum computers?
+For some problems, supercomputers aren’t that super.
+
+When scientists and engineers encounter difficult problems, they turn to supercomputers. These are very large classical computers, often with thousands of classical CPU and GPU cores. However, even supercomputers struggle to solve certain kinds of problems.
+
+If a supercomputer gets stumped, that's probably because the big classical machine was asked to solve a problem with a high degree of complexity. When classical computers fail, it's often due to complexity
+
+Complex problems are problems with lots of variables interacting in complicated ways. Modeling the behavior of individual atoms in a molecule is a complex problem, because of all the different electrons interacting with one another. Sorting out the ideal routes for a few hundred tankers in a global shipping network is complex too.
+How do quantum computers work?
+Quantum computers are elegant machines, smaller and requiring less energy than supercomputers. An IBM Quantum processor is a wafer not much bigger than the one found in a laptop. And a quantum hardware system is about the size of a car, made up mostly of cooling systems to keep the superconducting processor at its ultra-cold operational temperature.
+
+A classical processor uses bits to perform its operations. A quantum computer uses qubits (CUE-bits) to run multidimensional quantum algorithms.
+
+Superfluids
+
+Your desktop computer likely uses a fan to get cold enough to work. Our quantum processors need to be very cold – about a hundredth of a degree above absolute zero. To achieve this, we use super-cooled superfluids to create superconductors.
+
+Superconductors
+
+At those ultra-low temperatures certain materials in our processors exhibit another important quantum mechanical effect: electrons move through them without resistance. This makes them "superconductors." 
+
+When electrons pass through superconductors they match up, forming "Cooper pairs." These pairs can carry a charge across barriers, or insulators, through a process known as quantum tunneling. Two superconductors placed on either side of an insulator form a Josephson junction.
+
+Control
+
+Our quantum computers use Josephson junctions as superconducting qubits. By firing microwave photons at these qubits, we can control their behavior and get them to hold, change, and read out individual units of quantum information.
+
+Superposition
+
+A qubit itself isn't very useful. But it can perform an important trick: placing the quantum information it holds into a state of superposition, which represents a combination of all possible configurations of the qubit. Groups of qubits in superposition can create complex, multidimensional computational spaces. Complex problems can be represented in new ways in these spaces.
+
+Entanglement
+
+Entanglement is a quantum mechanical effect that correlates the behavior of two separate things. When two qubits are entangled, changes to one qubit directly impact the other. Quantum algorithms leverage those relationships to find solutions to complex problems.
+
+Making quantum computers useful
+Right now, IBM Quantum leads the world in quantum computing hardware and software. Our roadmap is a clear, detailed plan to scale quantum processors, overcome the scaling problem, and build the hardware necessary for quantum advantage.
+
+Quantum advantage will not be achieved with hardware alone. IBM has also spent years advancing the software that will be necessary to do useful work using quantum computers. We developed the Qiskit quantum SDK. It is open-source, python-based, and by far the most widely-used quantum SDK in the world. We also developed Qiskit Runtime, the most powerful quantum programming model in the world. (Learn more about both Qiskit and Qiskit, Runtime, and how to get started, in the next section.)
+
+Achieving quantum advantage will require new methods of suppressing errors, increasing speed, and orchestrating quantum and classical resources. The foundations of that work are being laid today in Qiskit Runtime.
+
+Get started
+IBM's quantum computers are programmed using Qiskit (link resides outside ibm.com), our open-source, python-based quantum SDK. Qiskit has modules dedicated to finance, chemistry, optimization, and machine learning.
+
+Check out the documentation (link resides outside ibm.com) to get started quickly and learn more about our suite of developer tools.
+Build research and development-level code to run on simulators or real hardware.
+Join our growing community of 400,000+ users
+Ready for larger workloads? Execute at scale with Qiskit Runtime, our quantum programming model for efficiently building and scaling workloads. Qiskit Runtime enables users to deploy custom quantum-classical applications with easy access to HPC hybrid computations on the highest performing quantum systems in the world. Qiskit Runtime provides an execution environment for weaving together quantum circuits with classical processing, natively accelerating the execution of certain quantum programs. This means faster iteration, reduced latency, and more uninhibited compute time on the world's leading quantum systems: Qiskit Runtime's cloud-based execution model demonstrated a 120x speedup in simulating molecular behavior
